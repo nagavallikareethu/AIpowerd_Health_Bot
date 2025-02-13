@@ -35,3 +35,6 @@ source env_name/bin/activate      # On MacOS/Linux
 
 streamlit run app.py
 
+output:
+![AIpoweredHealthbot](https://github.com/user-attachments/assets/59bd6076-2b7f-42ee-89ec-885409fa5251)
+
